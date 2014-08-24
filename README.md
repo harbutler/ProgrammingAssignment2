@@ -100,10 +100,6 @@ In order to complete this assignment, you must do the following:
 5.  Submit to Coursera the URL to your GitHub repository that contains
     the completed R code for the assignment.
 
-### Grading
-
-This assignment will be graded via peer assessment.
-
 In addition to submitting the URL for your GitHub repository, you will need to submit the 40 character SHA-1 hash (as string of numbers from 0-9 and letters from a-f) that identifies the repository commit that contains the version of the files you want to submit. You can do this in GitHub by doing the following
 
 1. Going to your GitHub repository web page for this assignment
@@ -114,6 +110,13 @@ In addition to submitting the URL for your GitHub repository, you will need to s
 
 A valid submission will look something like (this is just an example!)
 
+```
 https://github.com/rdpeng/ProgrammingAssignment2
 
 7c376cc5447f11537f8740af8e07d6facc3d9645
+```
+
+### Grading
+
+This assignment will be graded via peer assessment.
+
